@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Thorium234 (Paul Inyangala)</h1>
 
 <h3 align="center">
+  A Maintainer |
 Backend Engineer | Full Stack Developer | Enterprise Software Architect
 </h3>
 
