@@ -235,7 +235,7 @@ Building cutting-edge solutions in:
 - **GitHub:** [github.com/Thorium234](https://github.com/Thorium234)
 - **Email:** inyangalapaul5@gmail.com
 - **Location:** 🇰🇪 Kenya
-
+- **Linkedin:**https://www.linkedin.com/in/paul-inyangala-25a8b1425?utm_source=share_via&utm_content=profile&utm_medium=member_android
 ---
 
 ## 📝 Open to Opportunities
