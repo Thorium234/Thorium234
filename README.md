@@ -234,6 +234,7 @@ Building cutting-edge solutions in:
 
 - **GitHub:** [github.com/Thorium234](https://github.com/Thorium234)
 - **Email:** inyangalapaul5@gmail.com
+- **Portfolio**: https://portfolio-rho-six-61.vercel.app
 - **Location:** 🇰🇪 Kenya
 -  **Linkedin**: https://www.linkedin.com/in/paul-inyangala-25a8b1425
 -  **My Resume**: https://docs.google.com/document/d/1mW5XOTqtBYldR8_bQEDwEJzqJAUMUI-reKzzYDXhN7Y/edit?usp=drivesdk
