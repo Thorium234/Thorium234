@@ -237,7 +237,7 @@ Building cutting-edge solutions in:
 - **Portfolio**: https://portfolio-rho-six-61.vercel.app
 - **Location:** 🇰🇪 Kenya
 -  **Linkedin**: https://www.linkedin.com/in/paul-inyangala-25a8b1425
--  **My Resume**: https://drive.google.com/file/d/1gNVshxSzJcvt27DKcHHmbAE2Ic6tVF7r/view?usp=sharing
+-  **My Resume**: https://drive.google.com/file/d/1OpSZoNRBmW_bZs5jaY2VBhyK4_ok-gwk/view?usp=sharing
 ---
 
 ## 📝 Open to Opportunities
@@ -252,6 +252,7 @@ Interested in:
  - 2011-2019- **BUSHILI PRIMARY SCHOOL [CERTIFICATE]**
  - 2020-2023- **NAMWELA BOYS HIGH SCHOOL[CERTIFICATE]**
  - 2024-2028 **KIBABII UNIVERSITY [BACHELARS DEGREE OF INFORMATION TECHNOLOGY]**
+
 Let's build something amazing together! 🚀
 
 ---
