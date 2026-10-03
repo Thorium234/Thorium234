@@ -248,7 +248,10 @@ Interested in:
 - **System Architecture** consulting
 - **Open Source** contributions
 - **Technical Leadership** opportunities
-
+  # Education
+ - 2011-2019- **BUSHILI PRIMARY SCHOOL [CERTIFICATE]**
+ - 2020-2023- **NAMWELA BOYS HIGH SCHOOL[CERTIFICATE]**
+ - 2024-2028 **KIBABII UNIVERSITY [BACHELARS DEGREE OF INFORMATION TECHNOLOGY]**
 Let's build something amazing together! 🚀
 
 ---
