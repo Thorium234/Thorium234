@@ -237,7 +237,7 @@ Building cutting-edge solutions in:
 - **Portfolio**: https://portfolio-rho-six-61.vercel.app
 - **Location:** 🇰🇪 Kenya
 -  **Linkedin**: https://www.linkedin.com/in/paul-inyangala-25a8b1425
--  **My Resume**: https://docs.google.com/document/d/1mW5XOTqtBYldR8_bQEDwEJzqJAUMUI-reKzzYDXhN7Y/edit?usp=drivesdk
+-  **My Resume**: https://drive.google.com/file/d/1gNVshxSzJcvt27DKcHHmbAE2Ic6tVF7r/view?usp=sharing
 ---
 
 ## 📝 Open to Opportunities
