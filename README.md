@@ -43,11 +43,11 @@ Experienced software engineer with 4+ years of continuous development and a stro
 ## 💼 Top Contributed Projects
 
 ### 🎨 **AccountingSystem** - Open Source Design System
-**[github.com/Thorium234/astryx](https://github.com/Thorium234/kikaifinTech.git)**
+**[github.com/Thorium234/kikaifinTech](https://github.com/Thorium234/kikaifinTech.git)**
 
 *An open-source design system that's fully customizable and production-ready*
 
-- **Language Composition:** Java (10.18MB), xml (3.4MB), CSS (44KB)
+- **Language Composition:** Java (10.18MB), xml (3.4MB), sqlite (44KB)
 - **Key Features:** Component library, design tokens, accessibility-first approach
 - **Impact:** Reusable component ecosystem for modern web applications
 - **Technologies:** Java, JavaFX, maven
