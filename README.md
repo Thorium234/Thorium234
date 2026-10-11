@@ -236,7 +236,7 @@ Building cutting-edge solutions in:
 - **Email:** inyangalapaul5@gmail.com
 - **Portfolio**: https://portfolio-rho-six-61.vercel.app
 - **Location:** 🇰🇪 Kenya
--  **Linkedin**: https://www.linkedin.com/in/paul-inyangala-25a8b1425
+-  **LinkedIn**: https://www.linkedin.com/in/paul-inyangala-25a8b1425
 -  **My Resume**: https://drive.google.com/file/d/1OpSZoNRBmW_bZs5jaY2VBhyK4_ok-gwk/view?usp=sharing
 ---
 
@@ -244,14 +244,14 @@ Building cutting-edge solutions in:
 
 Interested in:
 - **Full-Stack Development** roles
-- **Backend Engineering** positions
+- **Back-end Engineering** positions
 - **System Architecture** consulting
 - **Open Source** contributions
 - **Technical Leadership** opportunities
   # Education
  - 2011-2019- **BUSHILI PRIMARY SCHOOL [CERTIFICATE]**
  - 2020-2023- **NAMWELA BOYS HIGH SCHOOL[CERTIFICATE]**
- - 2024-2028 **KIBABII UNIVERSITY [BACHELARS DEGREE OF INFORMATION TECHNOLOGY]**
+ - 2024-2028 **KIBABII UNIVERSITY [BACHELORS DEGREE OF INFORMATION TECHNOLOGY]**
 
 Let's build something amazing together! 🚀
 
