@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Thorium234 (Paul Inyangala)</h1>
+<h1 align="center">Hi 👋, I'm Thorium234 (Paul Injendi Inyangala)</h1>
 
 <h3 align="center">
   A Maintainer |
@@ -35,7 +35,7 @@ Experienced software engineer with 4+ years of continuous development and a stro
 | **JavaScript** | 2.37MB | Frontend & Backend applications |
 | **Python** | 93KB | Education, automation, data processing |
 | **Go** | 98KB | High-performance backend services |
-| **HTML/CSS** | 265KB | Web UI & styling |
+| **HTML/CSS/JS** | 265KB | Web UI & styling |
 | **SQL** | Query optimization & database design |
 
 ---
@@ -235,7 +235,7 @@ Building cutting-edge solutions in:
 - **GitHub:** [github.com/Thorium234](https://github.com/Thorium234)
 - **Email:** inyangalapaul5@gmail.com
 - **Portfolio**: https://portfolio-rho-six-61.vercel.app
-- **Location:** 🇰🇪 Kenya
+- **Location:** 🇰🇪 Kenya-KAKAMEGA
 -  **LinkedIn**: https://www.linkedin.com/in/paul-inyangala-25a8b1425
 -  **My Resume**: https://drive.google.com/file/d/1OpSZoNRBmW_bZs5jaY2VBhyK4_ok-gwk/view?usp=sharing
 ---
