@@ -35,6 +35,7 @@ Experienced software engineer with 4+ years of continuous development and a stro
 | **JavaScript** | 2.37MB | Frontend & Backend applications |
 | **Python** | 93KB | Education, automation, data processing |
 | **Go** | 98KB | High-performance backend services |
+| **Rust** | 98KB | High-performance low backend services |
 | **HTML/CSS/JS** | 265KB | Web UI & styling |
 | **SQL** | Query optimization & database design |
 
