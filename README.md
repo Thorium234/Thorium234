@@ -39,6 +39,7 @@ Experienced software engineer with 4+ years of continuous development and a stro
 | **HTML/CSS/JS** | 265KB | Web UI & styling |
 | **SQL** | Query optimization & database design |
 
+
 ---
 
 ## 💼 Top Contributed Projects
@@ -171,6 +172,7 @@ Experienced software engineer with 4+ years of continuous development and a stro
 - Nginx web server configuration
 - CI/CD pipeline development
 - Database replication & backup strategies
+- Jenkins 
 
 ---
 
