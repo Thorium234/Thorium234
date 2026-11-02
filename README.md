@@ -157,7 +157,7 @@ Experienced software engineer with 4+ years of continuous development and a stro
 - **SCHACCS** - Enterprise School Accounting System (JavaFX, Java)
 - **School LMS** - Multi-module learning management platform
 - **SmartRental** - Property management platform with analytics
-- **SakaJob** - Employment platform connecting thousands of users
+- **Chamacore** -  platform connecting thousands of users for chama
 
 ### Architectural Patterns Implemented
 - Microservices architecture with Go
